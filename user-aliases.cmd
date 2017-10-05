@@ -23,3 +23,4 @@ qujianqian=d: && cd ../../../ && cd QULab && cd Android
 gb=git branch -a
 github=d: && cd ../../../ && cd NoLaber
 laijieqian=d: && cd ../../../ && cd SSLab && cd Android
+testtt
